@@ -12,7 +12,7 @@ const Home = () => {
     <div className='row'>
       <div className='col-6'>
         <div className='main-banner position-relative'>
-          < img src='images/main-banner-1.jpg' className='img-fluid rounded-3' alt="banner1"/>
+          < img src='images/main-banner-1.jpeg' className='img-fluid rounded-3' alt="banner1" style={{height:"450px"}}/>
           <div className='main-banner-content position-absolute'>
             <h4>Premium</h4>
             {/* <h5></h5> */}
@@ -99,56 +99,56 @@ const Home = () => {
                 <h6>Music & Gaming</h6>
                 <p>10 Items</p>
               </div> 
-              <img src='images/tv.jpg' alt='camera'/>
+              <img src='images/tv.jpeg' alt='camera'style={{height:"110px"}}/>
             </div>
             <div className='d-flex gap-30 align-items-center'>
               <div>
                 <h6>Cameras</h6>
                 <p>10 Items</p>
               </div> 
-              <img src='images/camera.jpg' alt='camera'/>
+              <img src='images/camera.jpeg' alt='camera'style={{height:"110px"}}/>
             </div>
             <div className='d-flex gap-30 align-items-center'>
               <div>
                 <h6>Smart Tv</h6>
                 <p>10 Items</p>
               </div> 
-              <img src='images/tv.jpg' alt='camera'/>
+              <img src='images/tv.jpeg' alt='camera'style={{height:"110px"}}/>
             </div>
             <div className='d-flex gap-30 align-items-center'>
               <div>
-                <h6>Smart Watches</h6>
+                <h6>Watches</h6>
                 <p>10 Items</p>
               </div> 
-              <img src='images\headphone.jpg' alt='headphone'/>
+              <img src='images\watch2.jpeg' alt='headphone' style={{height:"110px"}}/>
             </div>
             <div className='d-flex gap-30 align-items-center'>
               <div>
                 <h6>Music & Gaming</h6>
                 <p>10 Items</p>
               </div> 
-              <img src='images/tv.jpg' alt='camera'/>
+              <img src='images/tv.jpeg' alt='camera'style={{height:"110px"}}/>
             </div>
             <div className='d-flex gap-30 align-items-center'>
               <div>
                 <h6>Cameras</h6>
                 <p>10 Items</p>
               </div> 
-              <img src='images/camera.jpg' alt='camera'/>
+              <img src='images/camera.jpeg' alt='camera'style={{height:"110px"}}/>
             </div>
             <div className='d-flex gap-30 align-items-center'>
               <div>
                 <h6>Smart Tv</h6>
                 <p>10 Items</p>
               </div> 
-              <img src='images/tv.jpg' alt='camera'/>
+              <img src='images/tv.jpeg' alt='camera'style={{height:"110px"}}/>
             </div>
             <div className='d-flex gap-30 align-items-center'>
               <div>
-                <h6>Smart Watches</h6>
+                <h6>Watches</h6>
                 <p>10 Items</p>
               </div> 
-              <img src='images\headphone.jpg' alt='headphone'/>
+              <img src='images\watch2.jpeg' alt='headphone' style={{height:"100px"}}/>
             </div>
           </div>
 

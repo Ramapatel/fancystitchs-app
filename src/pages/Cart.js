@@ -1,7 +1,7 @@
 import React from 'react'
 import Meta from "../components/Meta";
 import BreadCrumb from "../components/BreadCrumb";
-import watch from "../images/watch.jpg";
+import watch from "../images/watch.jpeg";
 import { AiFillDelete } from 'react-icons/ai';
 import {Link} from "react-router-dom";
 import Container from '../components/Container';

@@ -8,7 +8,7 @@ import Color from "../components/Color";
 import {TbGitCompare} from "react-icons/tb";
 import {AiOutlineHeart} from "react-icons/ai";
 import Container from '../components/Container';
-import watch from "../images/watch.jpg"
+import watch from "../images/watch.jpeg"
 
 const SingleProduct = () => {
     const props = {width: 400, height: 100, zoomWidth: 600, img: "https://tse1.mm.bing.net/th?id=OIP.EJwsKZU5PdWPciND5C4BMAHaJ2&pid=Api&P=0&h=180"};

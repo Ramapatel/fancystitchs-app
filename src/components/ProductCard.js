@@ -4,7 +4,7 @@ import { Link,useLocation } from 'react-router-dom';
 import prodcompare from "../images/prodcompare.svg";
 import wish from "../images/wish.svg";
 import wishlist from "../images/wishlist.svg";
-import watch from "../images/watch.jpg"
+import watch from "../images/watch.jpeg"
 import watch2 from "../images/watch.1.jpeg"
 import addcart from "../images/add-cart.svg"
 import view from "../images/view.svg"
@@ -19,7 +19,7 @@ const ProductCard = (props) => {
       <Link to=":id" className='product-card position-relative'>
         <div className='wishlist-icon position-absolute'>
           <button className='border-0 bg-transparent'>
-            <img src={wish} alt='wishlist'/>
+            <img src={wishlist} alt='wishlist'/>
           </button>  
         </div>
 

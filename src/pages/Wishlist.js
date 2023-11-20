@@ -13,7 +13,7 @@ const Wishlist = () => {
                 <div className='wishlist-card position-absolute'>
                 <img src='images/cross.svg' alt='cross' className='position-absolute cross img-fluid'/>
                     <div className='wishlist-card-image'>
-                    <img src='images/watch.jpg' className='img-fluid w-100' alt='watch'/>
+                    <img src='images/watch.jpeg' className='img-fluid w-100' alt='watch'/>
                     </div>
                     <div className='py-3 px-3'>
                         <h5 className='title'>
@@ -27,7 +27,7 @@ const Wishlist = () => {
                 <div className='wishlist-card position-absolute'>
                 <img src='images/cross.svg' alt='cross' className='position-absolute cross img-fluid'/>
                     <div className='wishlist-card-image'>
-                    <img src='images/watch.jpg' className='img-fluid w-100' alt='watch'/>
+                    <img src='images/watch.jpeg' className='img-fluid w-100' alt='watch'/>
                     </div>
                     <div className='py-3 px-3'>
                         <h5 className='title'>
@@ -41,7 +41,7 @@ const Wishlist = () => {
                 <div className='wishlist-card position-absolute'>
                 <img src='images/cross.svg' alt='cross' className='position-absolute cross img-fluid'/>
                     <div className='wishlist-card-image'>
-                    <img src='images/watch.jpg' className='img-fluid w-100' alt='watch'/>
+                    <img src='images/watch.jpeg' className='img-fluid w-100' alt='watch'/>
                     </div>
                     <div className='py-3 px-3'>
                         <h5 className='title'>
